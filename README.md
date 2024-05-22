@@ -42,3 +42,21 @@ This script reads a JSON file containing product information, generates SQL INSE
 ### Requirements
 - Python 3.x
 - JSON file with product data.
+
+## 4. 🗝️Generate Random Passwords
+
+### Description
+This Python program generates random passwords based on user-specified criteria. Users can choose the type of password they want (e.g., numbers and letters, only letters, only numbers, or numbers, letters, and symbols), specify the length of the passwords, and determine how many passwords to generate.
+
+### Functionality
+- Users can choose from four types of passwords:
+  1. Numbers and letters
+  2. Only letters
+  3. Only numbers
+  4. Numbers, letters, and symbols
+- Allows users to specify the length of the passwords.
+- Generates random passwords based on the specified type and length.
+- Outputs the generated passwords to the terminal.
+
+### Requirements
+- Python 3.x
